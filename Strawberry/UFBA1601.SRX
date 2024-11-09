@@ -1,16 +1,18 @@
-*EXP.DETAILS: UFBA1601SR UFBA1401SR STRAWBERRY VARIETY TRIAL
+*EXP.DETAILS: UFBA1601SR 2016 BALM STRAWBERRY VARIETY TRIAL
 
 *GENERAL
 @PEOPLE
-Hopf, A., Boote, K. J., Oh, J., Guan, Z., Agehara, S., Shelia, V., Whitaker
+A. Hopf, K.J. Boote, J. Oh, G.Hoogenboom
 @ADDRESS
-University Of Florida Gulf Coast Research And Education Center, 14625 Co Rd
+University Of Florida Gulf Coast Research And Education Center, Wimauma, FL
 @SITE
 Balm
-@ PAREA  PRNO  PLEN  PLDR  PLSP  PLAY HAREA  HRNO  HLEN  HARM.........
-    -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
-!Development and improvement of the CROPGRO-Strawberry model. Scientia Horticulturae, 291, 110538.
-!https://doi.org/10.1016/j.scienta.2021.110538.
+@NOTES
+Hopf, A., K.J. Boote, J. Oh, Z. Guan, S. Agehara, V. Shelia, V.M. Whitaker, 
+S. Asseng, X. Zhao, and G. Hoogenboom. 2022. 
+Development and improvement of the CROPGRO-Strawberry model. 
+Scientia Horticulturae 291 (2022) 110538.
+https://doi.org/10.1016/j.scienta.2021.110538. 
 
 *TREATMENTS                        -------------FACTOR LEVELS------------
 @N R O C TNAME.................... CU FL SA IC MP MI MF MR MC MT ME MH SM
