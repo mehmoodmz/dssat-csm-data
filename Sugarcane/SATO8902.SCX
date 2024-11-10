@@ -7,6 +7,8 @@ Geoff Inman-Bamber (edited by Matthew Jones)
 South African Sugar Association Experiment Station
 @SITE
 Mount Edgecombe, Natal, South Africa
+@ PAREA  PRNO  PLEN  PLDR  PLSP  PLAY HAREA  HRNO  HLEN  HARM.........
+    -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
 @NOTES
  This is a test experimental details file
 
@@ -187,7 +189,7 @@ Mount Edgecombe, Natal, South Africa
 @N OPTIONS     WATER NITRO SYMBI PHOSP POTAS DISES  CHEM  TILL   CO2
  1 OP              Y     N     N     N     N     N     N     N     M
 @N METHODS     WTHER INCON LIGHT EVAPO INFIL PHOTO HYDRO NSWIT MESOM MESEV MESOL
- 1 ME              M     M     E     F     S     C     R     1     G     S     2
+ 1 ME              M     M     E     F     S     C     R     1     G     R     2
 @N MANAGEMENT  PLANT IRRIG FERTI RESID HARVS
  1 MA              R     N     N     N     R
 @N OUTPUTS     FNAME OVVEW SUMRY FROPT GROUT CAOUT WAOUT NIOUT MIOUT DIOUT VBOSE CHOUT OPOUT FMOPT
