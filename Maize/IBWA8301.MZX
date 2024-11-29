@@ -127,12 +127,12 @@
 
 *FERTILIZERS (INORGANIC)
 @F FDATE  FMCD  FACD  FDEP  FAMN  FAMP  FAMK  FAMC  FAMO  FOCD FERNAME
- 2 83333 FE005   -99    15    17   -99   -99   -99   -99   -99 -99
- 2 84006 FE005   -99     5    17   -99   -99   -99   -99   -99 -99
- 2 84041 FE005   -99     5    17   -99   -99   -99   -99   -99 -99
- 3 83333 FE005   -99    15    67   -99   -99   -99   -99   -99 -99
- 3 84006 FE005   -99     5    67   -99   -99   -99   -99   -99 -99
- 3 84041 FE005   -99     5    67   -99   -99   -99   -99   -99 -99
+ 2 83333 FE005 AP002    15    17   -99   -99   -99   -99   -99 -99
+ 2 84006 FE005 AP002     5    17   -99   -99   -99   -99   -99 -99
+ 2 84041 FE005 AP002     5    17   -99   -99   -99   -99   -99 -99
+ 3 83333 FE005 AP002    15    67   -99   -99   -99   -99   -99 -99
+ 3 84006 FE005 AP002     5    67   -99   -99   -99   -99   -99 -99
+ 3 84041 FE005 AP002     5    67   -99   -99   -99   -99   -99 -99
 
 *SIMULATION CONTROLS
 @N GENERAL     NYERS NREPS START SDATE RSEED SNAME.................... SMODEL
@@ -157,7 +157,3 @@
  1 RE            100     1    20
 @N HARVEST     HFRST HLAST HPCNP HPCNR
  1 HA              0 84334   100     0
-
-
-! 1 ME              M     M     E     R     S     C     R     1     P   !Century
-
