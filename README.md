@@ -8,16 +8,16 @@
 </p>
 <hr>
 The Decision Support System for Agrotechnology Transfer (DSSAT) Version is a software 
-application program that comprises crop simulation models for over 45 different crops. The most recent version is DSAT v4.8.5 released in December, 2024 <a href="https://github.com/DSSAT/dssat-csm-os/releases/tag/v4.8.5.0">(Check latest RELEASE here)</a>.
+application program that comprises crop simulation models for more than 45 different crops. The most recent version is DSAT v4.8.5 released in December, 2024 <a href="https://github.com/DSSAT/dssat-csm-os/releases/tag/v4.8.5.0">(Check latest RELEASE here)</a>.
 
 For DSSAT to be functional it is supported by data base management programs for soil, 
-weather, and crop management, and experimental data, and by utilities and application 
+weather, crop management, and experimental data, and by utilities and application 
 programs. The crop simulation models simulate growth and development and predict yield, yield components, and many other traits and variables as a 
 function of the soil-plant-atmosphere dynamics.
 
-Questions about usage of DSSAT ecosystem <a href="http://dssat.net/contact-us">[contact us]</a>.
+Questions about usage of the DSSAT Crop Modeling Ecosystem <a href="http://dssat.net/contact-us">[contact us]</a>.
 
-Do not know how to use DSSAT? Consider participating the <a href="https://dssat.net/training/upcoming-workshop/">[upcoming DSSAT training workshop]</a>
+Do not know how to use DSSAT? Consider participating in the <a href="https://dssat.net/training/upcoming-workshop/">[upcoming DSSAT training workshop]</a>
 
 Read more about DSSAT at <a href="http://dssat.net/about">[DSSAT Homepage]</a>
 
